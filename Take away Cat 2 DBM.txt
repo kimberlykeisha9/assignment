@@ -1,0 +1,173 @@
+﻿Take away Cat 2
+Question
+The following information has been extracted from the cash book (Bank column only) of N. Peter for the month of December 2021.
+
+Date
+Details
+$
+Date
+Details
+Cheque No.
+$
+1.12.2021
+Bal B/d
+16,491
+01.12.2021
+Alexander
+782
+857
+02.12.2021
+Able
+962
+06.12.2021
+Burgess
+783
+221
+10.12.2021
+Baker
+1,103
+14.12.2021
+Barry
+784
+511
+11.12.2021
+Charlie
+2,312
+17.12.2021
+Cook
+785
+97
+14.12.2021
+Delta
+419
+24.12.2021
+Hay
+786
+343
+21.12.2021
+Echo
+327
+29.12.2021
+Rent
+787
+260
+23.12.2021
+Cash sales
+529
+
+
+
+
+30.12.2021
+Fred
+119
+31.12.2021
+Bal C/d
+
+19,973
+
+
+22,262
+
+
+
+22,262
+His bank statement from Equate bank was as follows:
+Bank statement: N. Peter: account number 00000180
+For the month of December 2021
+Date
+Details
+withdrawals
+Deposit
+Balance
+1.12.2021
+Bal B/d
+
+
+17,478
+02.12.2021
+Cheque No. 780
+426
+
+17,052
+02.12.2021
+Cheque No. 781
+737
+
+16,315
+02.12.2021
+Deposit
+
+176
+16,491
+05.12.2021
+Cheque No. 782
+857
+
+15,634
+05.12.2021
+Bank charges
+47
+
+15,587
+06.12.2021
+Deposit
+
+2,065
+17,652
+10.12.2021
+Standing order ( rates)
+137
+
+17,515
+11.12.2021
+Cheque No.783
+212
+
+17,303
+13.12.2021
+Deposit
+
+2,312
+19,615
+17.12.2021
+Cheques No,784
+511
+
+19,104
+17.12.2021
+Deposit
+
+419
+19,523
+23.12.2021
+Deposit
+
+327
+19,850
+24.12.2021
+Deposit
+
+528
+20,378
+28.12.2021
+cheque No 786
+343
+
+20,035
+30.12.2021
+Cheque No.310923
+297
+
+19,738
+31.12.2021
+Bal C/d
+
+
+19,738
+Required:
+a) State and briefly explain any four causes of the differences in the balances as per the bank statement and cash book (bank column) above.				( 8 marks)
+b) Prepare the Updated/ adjusted cash book as at 31st December 2016 for N. Peter.											( 10 marks)
+c) Prepare the bank reconciliation statement for N. Peter as at 31st December 2016.											( 8 marks)
+d) Explain the term contra entry as used in the three column cashbook giving an example											( 4 Mark)
+
