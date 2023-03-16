@@ -1,0 +1,602 @@
+                                          FALLACIES
+What is a fallacy?
+         There are two ways in which an argument can fail. Firstly, if one of its premisses
+asserts a false proposition, the argument will fail to establish the truth of the conclusion,
+even if the reasoning involved is correct. Secondly, the premisses of an argument may in
+fact fail to support the conclusion. In both these instances we could say that the argument
+is fallacious. As the term fallacy is employed in logic, however, “it designates not any
+mistaken inference or false belief, but typical errors, that is, mistakes, that arise
+commonly in ordinary discourse, and that devastate the arguments in which they
+appear.”1 Copi and Cohen elaborate:
+
+        There are many ways in which reasoning can go astray; that is, there are many
+        kinds of mistakes in argument. It is customary to reserve the term “fallacy” for
+        arguments that, although incorrect, are psychologically persuasive. Some
+        arguments are so obviously incorrect as to deceive and persuade no one. But
+        fallacies are dangerous because most of us are, at one time or another, fooled by
+        some of them. we therefore define a fallacy as a type of argument that may
+        seem to be correct, but that proves, on examination, not to be so. It is
+        profitable to study these mistaken arguments because the traps they set can best
+        be avoided when they are well understood. To be forewarned is to be forearmed.2
+
+       Following Copi and Cohen, we will consider various fallacies under two main
+headings: fallacies of relevance and fallacies of ambiguity.
+
+Fallacies of relevance
+
+        When an argument relies on premisses that are not relevant to its conclusion
+        and that therefore cannot possibly establish its truth, the fallacy committed is
+        one of relevance.3
+
+Often the premisses are psychologically relevant to the conclusion and so can give the
+impression to the unwary that they are logically relevant. Hence the seeming correctness
+and persuasiveness of fallacies of relevance.
+
+The argument from ignorance: argument ad ignorantiam
+       In an argument from ignorance “it is argued that a proposition is true simply
+on the basis that it has not been proved false, or that it is false because it has not
+been proved true.”4 A little reflection, however, leads us to see that our inability to
+prove the truth or falsehood of a proposition does not mean that it is either false or true.
+
+
+
+1
+  Irving M. Copi and Carl Cohen, Introduction to Logic (New Jersey: Prentice-Hall, 1998), 114.
+2
+  Ibid., 115.
+3
+  Ibid., 116.
+4
+  Ibid.
+
+
+                                                    1
+         Famous in the history of science is the argument ad ignorantiam given in
+         criticism of Galileo, when he showed leading astronomers of his time the
+         mountains and valleys on the moon that could be seen through his telescope.
+         Some scholars of that age, absolutely convinced that the moon was a perfect
+         sphere … argue against Galileo that, although we see what appear to be
+         mountains and valleys, the moon is in fact a perfect sphere, because all its
+         apparent irregularities are filled in by an invisible crystalline substance. And this
+         could not prove false! Legend has it that Galileo, to expose the argument ad
+         ignorantiam, offered another of the same kind as a caricature. Unable to prove the
+         nonexistence of the transparent crystal supposedly filling the valleys, he put
+         forward the equally probable hypothesis that there were, rearing up from the
+         invisible crystalline envelope on the moon, even greater mountain peaks – but
+         made of crystal and thus invisible! And this hypothesis, he pointed out, his critics
+         could not prove false.5
+
+The appeal to inappropriate authority: argument ad verecundiam
+       It is entirely appropriate to rely on the authority of experts in particular areas in
+which we ourselves possess no great competence. There is no problem with invoking
+such authority. A problem arises, and so the fallacy ad verecundiam, “when the appeal
+is made to parties having no legitimate claim to authority in the matter at hand.”6
+Thus, explain Copi and Cohen
+
+         [I]n an argument about morality, an appeal to the opinions of Darwin, a towering
+         authority in biology, would be fallacious, as would be an appeal to the opinions of
+         a great artist, like Picasso, to settle an economic dispute. But care must be taken in
+         determining whose authority is reasonably to be relied on, and whose rejected.
+         While Picasso was not an economist, his judgment might plausibly be given some
+         weight in a dispute pertaining to the economic value of an artistic masterpiece.7
+
+        The most blatant examples of inappropriate appeal to authority are probably to be
+found in advertisements. Thus, for example, we are encouraged to buy a particular brand
+of car because a football star recommends it; we are exhorted to consume a particular
+kind of food or beverage because a movie star endorses it. As Copi and Cohen put it,
+“Wherever the truth of some proposition is asserted on the basis of the authority of one
+who has no special competence in that sphere, the appeal to misplaced authority is the
+fallacy committed.”8
+        In practical terms, we should always ask ourselves whether the person whom we
+are inclined to cite as an authority really does have the authority we would like to ascribe
+to him/her and whether that authority is greater than our own in the matter. It is of course
+always possible that a person who does have a claim to legitimate authority might offer
+an opinion that subsequently proves to be wrong. To invoke such authority before the
+opinion is proved wrong is not however to be guilty of an argument ad verecundiam.
+
+5
+  Ibid., 117.
+6
+  Ibid., 119.
+7
+  Ibid.
+8
+  Ibid.
+
+
+                                               2
+Complex question
+       One of the most frequent fallacies is the complex question which consists in
+“asking a question in such a way as to presuppose the truth of some conclusion
+buried in the question.”9 By asking a question in this way, the questioner can often
+achieve his or her purposes surreptitiously – albeit also fallaciously.
+
+        Thus an executive of a utility company may ask, “Why is the private development
+        of resources so much more efficient than any government-owned enterprise?” –
+        assuming the greater efficiency of the private sector. Or a homeowner may ask,
+        regarding a proposed increased in the property tax, “How can you expect the
+        majority of voters, who rent but don’t own property and don’t have to pay tax, to
+        care if the tax burden of others is made even more unfair?” – assuming that the
+        burden of the proposed tax is unfair, and that those who rent rather than own their
+        own homes are not affected by tax increases on property. But since these
+        assumptions are not openly asserted, the questioners evade the need to defend
+        them forthrightly.10
+
+Copi and Cohen offer a dialogue that illustrates the most explicit form a complex
+question takes: one party asks a complex question, a second party answers it, and the first
+party then draws a fallacious inference on the basis of the answer:
+
+        LAWYER: The figures seem to indicate that your sales increased as a result of the
+        misleading advertisements. Is that correct?
+        WITNES: They did not!
+        LAWYER: But you have to admit, then, that your advertising was misleading.
+        How long have you been engaging in practices like these?11
+
+       It is possible to combine a complex question with an appeal to ignorance, as in the
+following passage from a scientific journal:
+
+        If Dr. Frankenstein must go on producing his biological monsters … [h]ow can
+        we be sure what would happen once the little beasts escaped from the
+        laboratory?12
+
+These kind of fallacious attacks are difficult to deal with as the require that the person to
+whom they are directed sort out hidden assumptions before a rational response is
+possible.
+
+Argument ad hominem
+        Literally an argument ad hominem means an argument “against the person.” it is
+“a fallacious attack in which the thrust is directed, not at a conclusion, but at the
+
+
+9
+  Ibid., 120.
+10
+   Ibid. 120-21.
+11
+   Ibid., 121.
+12
+   Erwin Chargaff, in a letter to Science 192 (1976), 938. Quoted in Copi and Cohen, Introduction, 122.
+
+
+                                                    3
+person who asserts or defends it.”13 There are two major ways in which this fallacy is
+committed.
+
+A. Argument ad hominem, abusive
+    In arguments one often hears one party attack the intelligence, reasonableness,
+integrity, and so on of their interlocutor. The fact is, however, that a person’s character is
+irrelevant to the soundness of the argument he or she is making. To say, for example, that
+a proposal should be rejected because it is proposed by “radicals” or “extremists” is a
+typical example of an ad hominem argument.
+    Unfortunately, this kind of argument can all too often be persuasive because of its
+psychological effects on those listening. When listeners are not sufficiently critical, their
+emotions can be mobilized in favour of or against a particular point of view.
+    Even philosophers have been known to commit this kind of fallacy as the following
+passages illustrate:
+
+     It is one thing to be attacked by an honorable opponent in an honorable way. This
+     happens all the time in philosophy. But in my view Sommer’s intellectual methods
+     are dishonest. She ignores the most elementary protocols of philosophical
+     discussion.14
+
+Sommers, in turn, replies:
+
+        One dishonest and unworthy tactic used by several of my detractors is to attribute
+        to me complaints I never made and then to dismiss the “complaints” as
+        “irresponsible” and evidence of my reckless unfairness.15
+
+       Labels often encountered in ad hominem arguments include: “right wing,” “left
+wing,” “liberal,” “conservative,” “fundamentalist,” and so on.
+
+B. Argument ad hominem, circumstantial
+        In the circumstantial form of the ad hominem fallacy, the one committing the
+fallacy focuses on the circumstances of his or her opponent. The circumstances of one
+who makes a claim have no bearing on the truth or otherwise of the claim itself.
+
+        In one of the varieties of this form, it is argued fallaciously that consistency
+        obliges an opponent to accept (or reject) some conclusion merely because of that
+        person’s employment, or nationality, or political affiliation, or other
+        circumstances. It may be unfairly suggested that a clergyman must accept a given
+        proposition because its denial would be incompatible with the Scriptures. Or it
+        may be claimed that political candidates must support a given policy because that
+        policy is explicitly propounded in the platform of their party. Such argument is
+
+13
+   Copi and Cohen, Introduction, 122.
+14
+   Sandra Lee Bartky, Proceedings of the American Philosophical Association 65 (1992), 56. Copi and
+Cohen, ibid.
+15
+   Christina Sommers, Proceedings of the American Association 65 (1992), 79. Quoted in Copi and Cohen,
+Introduction, 123.
+
+
+                                                  4
+           irrelevant to the truth of the proposition in question; it simply urges that some
+           persons’ circumstances require its acceptance.
+
+        Clearly the circumstantial form of the ad hominem argument is a special case of
+the abuse form. Thus, for example, to accuse someone of inconsistency in making a
+particular argument because of his or her profession or religious creed is a form of abuse.
+Likewise, to give another example, to say that someone’s argument is untrustworthy
+because he or she belongs to a particular group is a form of abuse.
+
+Accident and converse accident
+        The fallacies of accident and converse accident involve the use of generalization.
+“When we apply a generalization to individual cases that it does not properly
+govern, we commit the fallacy of accident. When we doe the reverse and, carelessly or
+by design, apply a principle that is true of a particular case to the great run of cases,
+we commit the fallacy of converse accident.”16
+        We would all agree that it is wrong to deceive. But what about someone, say
+Fritz, in Nazi Germany who was harbouring Jews in order to protect and save them?
+Some Gestapo officers knock at the door and ask if there are any Jews in hiding there.
+What should Fritz reply? Should he really tell them the truth that there are Jews in hiding
+in the basement? Hardly. This would be a fallacy of accident, moving to quickly or
+carelessly from a generalization.
+        The fallacy of converse accident involves moving too quickly or carelessly to a
+generalization. We are all familiar with the way in which all too often generalizations are
+made about groups of people on the basis of what may be true about a small minority,
+perhaps only one or two, people who belong to a particular group. In the Western world
+one might perhaps encounter someone who has been smoking heavily for a long number
+of years without suffering what are the usual consequences of this harmful and disgusting
+habit. Such a person might say: “Smoking is not bad for you. Look, I’ve been smoking
+thirty cigarettes a day for the last twenty-five years and have had no serious health issues
+as a result.” One cannot move from an isolated exceptional case like this one to a
+generalized comment.
+
+False cause
+       This fallacy involves treating something as the cause of something else when
+in reality it is not the cause. The most common form this fallacy takes is when it is
+believed that one thing is cause by another simply because if follows it. Temporal
+succession is no proof of causal succession.
+
+           If an aggressive move in foreign policy is followed by an international event for
+           which we had been hoping, some may mistakenly conclude that the aggressive
+           policy was the cause of that event. In primitive beliefs, the error is sometimes
+           blatant; we will all reject as absurd the claim that beating drums is the cause of the
+           sun’s reappearance after an eclipse, despite the evidence offered that ever time
+           drums have been beaten during an eclipse, the sun has reappeared.17
+
+16
+     Copi and Cohen, Introduction, 125.
+17
+     Ibid., 126.
+
+
+                                                 5
+The fallacy of false cause is widely known as the fallacy of post hoc ergo propter hoc
+(“after a thing therefore because of a thing”).
+
+Begging the question: petitio principii
+         Begging the question or the fallacy of petitio principii consists in assuming the
+truth of what one seeks to prove. This mistake would seem to be quite a silly one, yet it
+can be obscured by the way in which the premisses of the argument are formulated. The
+following argument illustrates the fallacy in operation: “To allow every man unbounded
+freedom of speech must always be, on the whole, advantageous to the state; for it is
+highly conducive to the interests of the community that each individual should enjoy a
+liberty, perfectly unlimited, of expressing his sentiments.”18 Another example: “All of us
+cannot be famous, because all of us cannot be well known.”19
+
+The appeal to emotion: argument ad populum
+       The argument ad populum is a favoured device of propagandists and those with
+tyrannical inclinations. “It is fallacious because it replaces the laborious task of
+presenting evidence and rational argument with expressive language and other
+devices calculated to excite enthusiasm, excitement, anger, or hate.”20 Historically,
+the speeches of Adolph Hitler are potent examples of the argument ad populum.
+
+        Those who rely most heavily of arguments ad populum are now to be found in
+        advertising agencies, where the use of that fallacy has been elevated almost to the
+        status of a fine art. The products advertised are associated, explicitly or slyly, with
+        things that we yearn for or that excite us favorably. Breakfast cereal is associated
+        with trim youthfulness, athletic prowess, and vibrant good health; whiskey is
+        associated with luxury and achievement, and been with high adventure; the
+        automobile is associated with romance, riches and sex. The men depicted using
+        the advertised product are generally handsome and distinguished, the women
+        sophisticated and charming – or hardly dressed at all. So clever and persistent are
+        the ballyhoo artists of our time that we are all influenced in some degree in spite
+        of our resolution to resist. Almost every imaginable device may be used to
+        command our attention, even to penetrate our subconscious thoughts. We are
+        manipulated by relentless appeals to emotion of every kind.21
+
+The mere association of a product and the emotion is in itself not an argument. The
+argument ad populum lies deeper. The implicit argument is that we ought to buy some
+article or other because it is associated with wealth or power or because everyone else is
+buying it.
+
+
+
+
+18
+   Richard Whately, Elements of Logic (London, 1826). Quoted in Copi and Cohen, Introduction, 127.
+19
+   Copi and Cohen, Introduction, 132.
+20
+   Ibid., 128.
+21
+   Ibid.
+
+
+                                                  6
+The appeal to pity: argument ad misericordiam
+      The appeal to pity is in effect a special case of the appeal to emotion. In the
+argument ad misericordiam the emotions to which appeal is made are altruism and
+mercy. Thus,
+
+        The attorney for a plaintiff, seeking compensatory damages for an injury, often
+        arranges to have the client’s disability revealed in the courtroom in some
+        heartrending way. And in criminal trials, although jury sympathy has no bearing
+        whatever on the guilt or innocence of the accused, effective defense attorneys
+        often appeal to the pity of the jury to the extent that the circumstances allow.
+        Sometimes that appeal is made obliquely.22
+
+Socrates, at his trial in Athens, resolutely refuses to appeal to pity in his defense. He will
+not bring his children into the courtroom to evoke pity in his favour. He says:
+
+        I, who am probably in danger of my life, will do none of these things. The
+        contrast may occur to his [each juror’s] mind, and he may be set against me, and
+        vote in anger because he is displeased at me on this account. Now if there be such
+        a person among you – mind, I do not say that there is – to him I may fairly rely:
+        My friend, I am a man, and like other men, a creature of flesh and blood, and not
+        “of wood or stone” as Homer says; and I have a family, yes, and sons, O
+        Athenians, three in number, one almost a man, and two others who are still
+        young; and yet I will not bring any of them here to petition you for acquittal.23
+
+The appeal to force: argument ad baculum
+        The appeal to force is obviously a fallacy that it seems to require no discussion at
+all. Sometimes, however, appeals ad baculum (literally “to the stick”) can be employed
+quite subtly. The threat involved may be indirect or veiled. Consider the following words
+from Howard Baker at the opening of one meeting:
+
+        The President continues to have confidence in the Attorney General and I have
+        confidence in the Attorney General and you ought to have confidence in the
+        Attorney General, because we work for the President and because that’s the way
+        things are. And if anyone has a different view of that, or any different motive,
+        ambition, or intention, he can tell me about it because we’re going to have to
+        discuss your status.24
+
+Appeal to force constitutes the abandonment of reason and is unacceptable.
+
+
+
+
+22
+   Ibid., 129.
+23
+   Plato, Apology.
+24
+   “White House Orders Silence on Meese,” Washington Post, 29 April 1988.
+
+
+                                                  7
+Irrelevant conclusion: ignoratio elenchi
+        The fallacy of ignoratio elenchi occurs “when an argument purporting to
+establish a particular conclusion is instead directed to proving a different
+conclusion.”25 For example
+
+        [P]articular tax reforms are sometimes defended by an emphasis on the need to
+        reduce budget deficits – when the real issue is the fairness or yield of the specific
+        tax measure proposed. Or special programs proposed to support the building
+        industry, or the automobile industry, may be defended with premisses that show
+        the need for assistance but do not support the need for the kind or amount of
+        assistance the program at issue would provide.26
+
+        While every fallacy (with the exception of petitio principii) is in a sense an
+ignoratio elenchi, in the sense in which it is referred to here it denotes a fallacy in which
+the argument misses the point without necessarily committing any of the other fallacies.
+        The term non sequitur is often applied to a fallacy of relevance (again with the
+exception of those that commit a petitio principii). It mean that the conclusion does not
+follows from its premiss or premisses. Consider the following example:
+
+        “Veterans have always had a strong voice in our government,” he said all too
+        accurately, adding the non sequitur: “It’s time to give them the recognition they so
+        rightly deserve.”
+
+Fallacies of ambiguity
+Arguments of ambiguity contain ambiguous words or phrases whose meaning shifts in
+the course of the argument, thereby rendering the argument fallacious.
+
+Equivocation
+        Many words have more than one meaning and we have no difficulty
+distinguishing those meanings on the basis of the context in which they are used. “When
+we confuse the several meanings of a word or phrase – accidentally or deliberately –
+we are using the word equivocally. If we do that in the context of an argument, we
+commit the fallacy of equivocation.”27 Equivocation can be employed in a humorous
+way as in Lewis Carroll’s Through the Looking Glass. Take, for example, the following
+passage:
+
+        “Who did you pass on the road?” the King went on, holding his hand out to the
+        messenger for some hay.
+              “Nobody,” said the messenger.
+              “Quite right,” said the King; “this young lady saw him too. So of course
+        Nobody walks slower than you.”28
+
+
+25
+   Copi and Cohen, Introduction, 131.
+26
+   Ibid.
+27
+   Ibid., 143.
+28
+   Quoted at ibid.
+
+
+                                             8
+Amphiboly
+        A statement is rendered amphibolous when the loose or awkward
+combination of its words renders its meaning indeterminate. It can be true on one
+interpretation and false on another. “When it is stated as premiss with the
+interpretation that makes it true, and a conclusion is drawn from it on the
+interpretation that makes it false, then the fallacy of amphiboly has been
+committed.”29 Ancient oracles often has amphiblous utterances.
+
+          Croesus, the king of Lydia, is said to have consulted the Oracle of Delphi before
+          beginning his war with the kingdom of Persia. “If Croesus went to war with
+          Cyrus,” came the oracular reply, “he would destroy a mighty kingdom.”
+          Delighted with this prediction, which he took to mean that he would destroy the
+          mighty kingdom of Persia, he attacked and was crushed by Cyrus, king of the
+          Persians. His life having been spared, he complained bitterly to the Oracle, whose
+          priests pointed out in reply that the Oracle had been entirely right: In going to
+          war, Croesus had destroyed a mighty kingdom – his own! Amphibolous
+          statements make dangerous premisses.30
+
+Accent
+       “When a premiss relies for its apparent meaning on one possible emphasis,
+but a conclusion is drawn from it that relies on the meaning of the same words
+accented differently, the fallacy of accent is committed.”31 Consider the statement: We
+should not speak ill of our friends. Copi and Cohen comment:
+
+          At least five distinct meanings – or more? – can be given to those eight words,
+          depending on which one of them is emphasized. When read without any undue
+          stresses, the injunction is perfectly sound. If the conclusion is drawn from it,
+          however, that we should feel free to speak ill of someone who is not our friend,
+          this conclusion follows only if the premiss has the meaning it acquires when its
+          last word is accented. But when its last word is accented it is no longer acceptable
+          as a moral rule; it has a different meaning, and it is, in fact, a different premiss.
+          The argument is a case of fallacy of accent. So, too, would be the argument that
+          drew from the same premiss the conclusion that we are free to work ill on our
+          friends if only we do not speak it – and similarly with the other fallacious
+          inferences that suggest themselves.32
+
+        A damaging use of accent occurs when, in referring to another’s writings, the
+author inserts or deletes italics or omits a qualification made by the original writer; in
+other cases paraphrasing may greatly change the meaning of the original writer. Thus, for
+example, an original statement might be: “George Harris is considered in liberal circles to
+be this generation’s most gifted journalist.” Harris may then quote this statement, but
+alter its accent as follows: “I am considered to be this generation’s most gifted
+
+29
+   Ibid., 145.
+30
+   Ibid.
+31
+   Ibid.
+32
+   Ibid., 146.
+
+
+                                               9
+journalist.” The omission of the reference to “liberal circles” greatly distorts the sense of
+the original statement.
+
+        To avoid such distortions, and the fallacies of accent that maybe built on them, the
+        responsible writer must be scrupulously accurate in quotation, always indicating
+        whether italics were in the original, indicating (with dots) whether the passages
+        have been omitted, and so on.33
+
+Composition
+        There are two closely related types of argument that are fallacies of compostion.
+Fallacy of composition entails “reasoning fallaciously from the attributes of the parts
+of a whole to the attributes of the whole itself.”34 One example would be to argue that
+“since every part of a certain machine is light in weight, the machine “as a whole” is light
+in weight.”35 It should be obvious that the many light parts may in fact make the machine
+very heavy. Each part of a piece of music may be a paradigm of musical perfection but
+this does not mean that the work as a whole is a paradigm of musical perfection.
+        In the second type of fallacy of composition, “the fallacious reasoning is from
+attributes of the individual elements or members of a collection to attributes of the
+collection of totality of those elements.”36 This second kind of composition fallacy may
+be defined as “the invalid inference that what may truly be predicated of a term
+distributively may also be truly predicated of the term collectively.”37 Thus, for example,
+we may say that the atomic bombs dropped during World War II did more damage than
+the conventional bombs dropped – but only distributively. Collectively, because there
+were many more of them, conventional bombs did more damage than the atomic ones.
+        It helps to keep in mind that a mere collection of parts is no machine; a collection
+of bricks is not a house or a wall. A machine, a house, a wall, and so on, are composed of
+parts arranged in certain and definite ways. Two more examples:
+
+        [T]he universe is spherical in form … because all the constituent part of the
+        universe, that is the sun, moon, and the planets, appear in this form.38
+
+        But space is nothing but a relation. For, in the first place, any space must consist
+        of parts; and if the parts are not spaces, the whole is not space.39
+
+Division
+        The fallacy of division mirrors that of composition. There are two kinds. “The
+first kind of division consists in arguing fallaciously that what is true of a whole
+must also be true of its parts.”40 To argue, for example, that a particular company is
+important and that therefore a particular employee of that company must also be
+
+33
+   Ibid.
+34
+   Ibid., 148.
+35
+   Ibid.
+36
+   Ibid.
+37
+   Ibid.
+38
+   Nicolaus Copernicus, “The New Idea of the Universe.” Quoted in Copi and Cohen, Introduction, 152.
+39
+   F.H. Bradley, Appearance and Reality. Quoted in Copi and Cohen, Introduction, 153.
+40
+   Copi and Cohen, Introduction, 149.
+
+
+                                                  10
+important is to commit the fallacy of division. Another example would be to argue that
+because a machine is heavy, all of its constituent parts are also heavy.
+        “The second type of division of fallacy is committed when one argues from
+the attributes of a collection of elements to the attributes of the elements
+themselves.”41 Oftentimes this kind of fallacy can seem like perfectly valid arguments
+for they take the same form as the following valid argument:
+
+           Dogs are carnivorous.
+           Afghan hounds are dogs.
+           Therefore Afghan hounds are carnivorous.42
+
+The following argument is however invalid, committing the fallacy of division:
+
+           Dogs are frequently encountered in the streets.
+           Afghan hounds are dogs.
+           Therefore Afghan hounds are frequently encountered in the streets.43
+
+       There are certain similarities between the fallacies of division and accident, on the
+one hand, and the fallacies of composition and converse accident, on the other hand. Copi
+and Cohen explain:
+       If we were to infer, from looking at one or two parts of a large machine that,
+       because they happen to be well designed, every one of its many parts if well
+       designed, we would commit the fallacy of converse accident, for what is true
+       about one or two surely may not be true of all. If we were to examine every single
+       part and find each carefully made, and from that finding infer that the entire
+       machine is carefully made, we would also reason fallaciously, because, however
+       carefully the parts were produced, they may have been assembled awkwardly or
+       carelessly. But here the fallacy is one of composition. In converse accident, one
+       argues that some atypical members of a class have a specified attribute, and
+       therefore that all members of the class, distributively, have that attribute; in
+       composition, one argues that, since each and every member of the class has the
+       attribute, the class itself (collectively) has that attribute. The difference is great. In
+       converse accident, all predications are distributive, whereas in composition, the
+       mistaken inference is from distributive to collective predication.44
+
+        Similar remarks can be made about the fallacies of division and accident. In
+division the mistake is to think that since the class itself possesses a particular attribute,
+each member of the class also possesses it. Thus, argues the fallacy of division, because
+the a particular country is economically rich, each citizen is rich. In the fallacy of
+accident, the argument is that because some rule applies in general, there are no special
+instances in which it might not apply. Thus, the fallacy of accident occurs in the
+argument that someone should be charged with grievous bodily harm – in spite of the fact
+
+41
+   Ibid.
+42
+   Ibid.
+43
+   Ibid.
+44
+   Ibid.
+
+
+                                               11
+that the person he harmed was a criminal who attacked him in the course of burgling his
+house.
+        In the cases of the fallacies of composition and division, as also of equivocation,
+amphiboly and accent, ambiguity is present. When the meaning of words or phrases shifts
+in the course of an argument, logical errors will arise.
+
+
+
+
+                                            12
+

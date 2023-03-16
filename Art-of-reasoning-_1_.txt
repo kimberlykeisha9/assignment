@@ -1,0 +1,395 @@
+The Art of Reasoning
+ (Introduction to Logic)
+Intended learning outcomes
+By the end of this topic, the learner should be able to:
+   Distinguish between logical and ordinary interpretation of the
+    term “argument”.
+   Explain the terms in a logical argument and their
+    connectedness
+   Distinguish between the argument forms (standard and non-
+    standard)
+   Formulate simple arguments, identify and evaluate arguments
+    from informal formulations
+   Formulate argument paragraphs and use them in philosophical
+    essays.
+   Apply logic to convince, persuade and influence reasonable
+    thought behavior and opinion formation
+   Unveil fallacies (logical errors ) and devise ways to overcome
+    them
+The concept of an argument
+   A claim made on basis of some evidence
+   An expression consisting of a claim and
+   supporting reasons.
+
+  Logically speaking, an argument is NOT a
+   dispute BUT
+   a claim supported by reasons
+Argument contd.
+  Terms in a logical argument
+   Proposition(s): statement of fact; asserts or negates; can
+    be true or false (truth-value)
+   Premise(s): proposition(s) that support the claim
+   Conclusion: proposition that make the claim
+  Hence an argument= a proposition or a set of
+    propositions, one of which is makes the claim
+    (conclusion) and rest of which give evidential
+    support (premises).
+Forms of arguments
+Standard form                                      Non-standard form
+
+
+Systematic order beginning with the                No orderly arrangement; either a
+premises and ending with the                       premise or a conclusion may begin
+conclusion                                         followed by the other(s)
+Example:
+1. Christians are God-fearing people               Examples:
+2. God-fearing people are fair minded              Christians are fair minded people since
+Therefore Christians are fair minded               they are God-fearing and God-fearing
+                                                   people are fair minded. [begins with a conclusion
+1.The    company     lacked    effective but ends with the premises]
+coordination
+2.The company also lacked proper Due to lack of effective coordination and
+management                               proper management, the company
+3. Lack of effective coordination and performed
+                                         a conclusion]
+                                                          poorly [begins with premises and ends with
+proper management leads to poor
+performance
+Hence, the company performed poorly
+Examples of standard form
+1. Christians are God-fearing people
+2. God-fearing people are fair minded
+Therefore Christians are fair minded
+
+1.The company lacked effective coordination
+2.The company also lacked proper management
+3.Lack of effective coordination and proper
+management leads to poor performance
+Hence, the company performed poorly
+Examples (non-standard form)
+Christians are fair minded people since all God-
+fearing people are fair minded and Christians are
+God-fearing. [begins with a conclusion but ends with
+the premises]
+
+Due to lack of effective coordination and proper
+management, the company performed poorly
+[begins with premises and ends with a conclusion]
+Argument markers/indicators
+ Premises and conclusion indicators
+ Premises: since; due to; for the reason that;
+    because; given, following, etc.
+ Conclusion: therefore; so; hence etc.
+Task: (a) Construct two arguments using the non-
+ standard form
+ (b) Rewrite the above arguments in standard form
+Classification of arguments
+Deductive Arguments                           Inductive Arguments
+The conclusion follow from the premises      The conclusion follow from the
+truthfully and necessarily                    premises as a matter of probability
+The conclusion entail premises (i.e.         The conclusion contains more than
+contain what is in the premises)              what is in the premises
+Given the truth of the premises the
+conclusion must be true (i.e. the truth of    The truth of the conclusion is not
+the premises guarantee the truth of the       guaranteed by the truth of the premises
+conclusion)                                   In most cases, a general conclusion is
+Sometimes, a particular conclusion is        drawn from particular premises.
+drawn from general premises.                  Examples:
+                                              P1. Philosophers are critical thinkers
+Examples:                                     P2. Historians are critical thinkers
+P1. Philosophers are critical thinkers        P3. Scientists are critical thinkers
+P2. Critical thinkers are reasonable people   Co. Therefore all scholars are critical thinkers
+Co. Therefore philosophers are reasonable
+people                                        P1. An eagle is a bird and it flies
+                                              P2. A hornbill is a bird and it flies
+P1. All human beings are thinkers             P3. A crow is a bird and it flies
+P2. Chris is a human being                    P4. A sunbird is a bird and it flies
+Co. Therefore Chris is a thinker              P5. A weaverbird is a bird and it flies
+                                              Co. Therefore all birds fly
+Examples (deductive argument)
+P1. Philosophers are critical thinkers
+P2. Critical thinkers are reasonable people
+Co. Therefore philosophers are reasonable people
+
+P1. All human beings are thinkers
+P2. Chris is a human being
+Co. Therefore Chris is a thinker
+Examples (inductive argument)
+P1. Philosophers are critical thinkers
+P2. Historians are critical thinkers
+P3. Scientists are critical thinkers
+Co. Therefore all scholars are critical thinkers
+
+P1. An eagle is a bird and it flies
+P2. A hornbill is a bird and it flies
+P3. A crow is a bird and it flies
+P4. A sunbird is a bird and it flies
+P5. A weaverbird is a bird and it flies
+Co. Therefore all birds fly
+Validity and Soundness
+  Validity: is an inferential link whereby the truth in the
+ premises is transmitted to the conclusion.
+ An argument is valid when given the truth of the premises,
+ the conclusion necessarily becomes true. [In other words,
+ the conclusion entails the premises]
+Which of the following arguments is valid?
+
+
+P1. All men are mortal            P1. All men are liars
+P2. James is a man                P2. James is a man
+Co. Therefore James is mortal     Co. Therefore James is a liar
+Soundness
+An argument termed as sound when the following two
+  conditions hold:
+1) It is valid
+2) All its propositions (i.e. premises and conclusions)
+    are known to be true
+Examples:
+      P1. All living organisms reproduce
+      P2. Bacteria is living organism
+      Co. Therefore bacteria reproduces
+Inductive strength
+An inductive argument can either be strong or weak
+A strong inductive argument is an inductive argument
+ in which the truth of the premises really does prove
+ that the conclusion is probably true;
+Whereas
+a weak inductive argument is an inductive argument in
+ which the truth of the premises really does not prove
+ that the conclusion is probably true.
+Examples
+Most musical artists are talented.
+John is a musical artist.
+Therefore, John probably is talented.
+This is inductively strong.
+
+John is a musical artist
+John is handsome
+Therefore, most musical artists are handsome.
+This inductive argument is weak
+Cogency
+Cogency is quality of inductive arguments
+An argument is said to be cogent when:
+ 1. It is a strong inductive argument; and
+ 2. All the premises are actually true.
+Formal and material logic
+Formal logic: studies the formal and structural aspects of
+  reasoning; surveys the set of rules for making deductions
+  that seem self evident.
+    Studies the “how” of reasoning
+
+
+Material logic: studies the content of reasoning; the
+  soundness of arguments; the meaningful use of words in
+  arguments
+    Studies the “what” of reasoning
+Class activity
+1. Construct one inductive argument and one
+   deductive argument
+2. Construct a valid argument that is sound and a
+   valid argument that is unsound.
+3. Construct an argument that is valid and one that
+   is invalid
+4. Construct an inductively strong and an
+   inductively weak argument.
+5. Construct a cogent argument
+Fallacies
+ Fallacy:
+ An argument that may seem to be correct, but
+  that proves, on examination, not to be so.
+ A logically erroneous argument, but
+  psychologically persuasive or emotionally
+  appealing
+ Counterfeit arguments
+
+ Classes of informal fallacies:
+    Relevance
+
+    Ambiguity
+
+    Presumption
+Fallacies of relevance
+    In this type of arguments, the premises that are
+    not relevant to the conclusion and therefore
+    cannot possibly establish its truth
+(a) Appeal to ignorance (argumentum ad
+    ignorantiam)
+    A proposition is argued to be true on grounds that it
+    has not been shown to be false, or false on grounds
+    that it has not been shown to be true.
+    E.g. Ghosts do not exist since no one has proved that
+    that they do.
+    Lack of proof does not disprove existence of a thing
+Fallacies contd.
+(b) Appeal to authority (argumentum ad verecundiam)
+  In order to persuade acceptance of a conclusion, an
+  authority is appealed to, one who irrelevant to the matter at
+  hand.
+  E.g.
+    Invoking a prominent politician’s view of morality to
+     support a moral theory.
+    Using a celebrity (e.g. a footballer) to advertise a product
+Fallacies contd.
+(c) Appeal to masses (argumentum ad populum)
+  Committed when what is thought or believed to be the
+  case (or supported) by the people is taken as the
+  evidence to persuade acceptance of an argument.
+  Commonly used by advertisers.
+E.g.
+   This pen is the best since “everyone” is using it;
+   The corpuscular theory of light is true theory because
+    almost all noteworthy scientists have agreed so.
+Fallacies contd.
+(d) Appeal to pity (argumentum ad misericordiam)
+  The arguer evokes feeling of mercy or sympathy to
+  persuade the listener accept the conclusion. Rather
+  than give convincing reasons the arguer appeals to the
+  emotions of the listener so as to be sympathized with.
+  E.g. A man kills his wife and pleads guilty of murder.
+  But in mitigation he pleads for forgiveness claiming
+  that he’s now a widower and the sole bread winner of
+  his three children that were left behind.
+Fallacies contd.
+(e) Argument against man (argumentum ad hominem)
+  Attention (and in most cases attack) is deliberately directed to
+  the person who poses the argument rather than the issue
+  addressed to by the argument. Three types:
+  (i) Abusive: The opponent attacks reasonableness, integrity,
+  intelligence or any other part of the arguers character. E.g. Karl
+  Marx’s theory of economics is not tenable because he was a known
+  atheist.
+  (ii) Circumstantial: The opponent attacks the accidental
+  circumstances of the arguer. E.g. Catholic priests should keep off
+  the discussion on abortion and women since they are unmarried.
+  (iii) Tu quoque (you too): The opponent attacks the arguer on
+  grounds that he/she (the arguer) is a victim hence has no
+  reasonable authority over the issue at hand. E.g. Why do you tell
+  me smoking is harmful yet you too are a smoker? Or Why teach
+  me about HIV/AID yet you are infected?
+Fallacies contd.
+(f) Appeal to force (argumentum ad baculum)
+  Force is used to coerce the acceptance of a conclusion.
+  So the argument has to be accepted or else a bad
+  consequence follows. No reasons are given to support
+  the argument.
+  E.g.
+   All employees have to comply with the new policy;
+    anyone with a different opinion can seek a job elsewhere.
+   You have to sign this document for me or else I’ll tell the
+    boss what you said about his wife.
+Fallacies of ambiguity
+      In this type of fallacies, the argument or the proposition in question is rendered unclear
+      or absurd due to unclearness of the language that has been used to express it.
+
+(a)   Equivocation
+      A term that has more than one meaning is used in an
+      argument leading to unclear or absurd conclusion.
+      Example 1:
+         Half a loaf is better than nothing
+          Nothing is better than true love
+          Therefore half a loaf is better than true love.
+      The term nothing has two different senses; hence leading to an absurd
+      conclusion.
+      Example 2:
+        The end of a thing is its perfection
+        Death is the end of life
+        Therefore death is the perfection of life
+Fallacies contd.
+ (b) Amphiboly
+ A phrase that has more than one meaning is used hence leading to
+ unclear consequence
+ E.g. The shooting of the hunters was finished quickly
+ (c) Accent
+ The way words in a statement are articulated leads to different
+ meanings especially if the underlying sentence is not properly
+ punctuated
+ E.g.
+   We should not speak ill of our friends
+   Woman without her man is lost
+Fallacies of Presumption
+  In this class, the claim is made but on basis of some
+  presumed circumstances. In some cases, restrictions are
+  made on basis of presumptions
+  (a) False dichotomy
+  It is assumed that there are only two alternatives of an outcome; things
+  are either black or white, one is either for or against, things are either
+  existent or non-existent, statements either true or false, etc.
+E.g.
+     If you do not support my views then you are anti-development
+     Are you also supporting them? Then you don’t love me.
+Fallacies of presumption contd.
+ (b) Complex question
+ A single question that has more than one visible part is
+ posed. If one is restricted to answer it either ‘yes’ or ‘no’
+ he/she finds himself/herself in an undesirable outcome.
+ E.g.
+   Have you stopped stealing?
+   Didn’t you hide after killing him?
+Fallacies of presumption contd.
+(C) False cause
+ An event or an occasion that follows an other is taken
+ to be its cause. The arguer presumes that the event has
+ been caused by what it temporarily follows.
+ Eg. Mr X saw a black cat in the morning and had a car
+ accident later in the day. Therefore the accident was
+ caused by the black cat.
+Fallacies of presumption contd.
+
+(d) Fallacy of division
+  Occurs when one claims that something true of a thing
+  must also be true of all or some of its parts. Thus someone
+  forms a conclusion from a true aspect of a thing assuming
+  the true thing also applies to all or some of its individuals or
+  parts.
+Example:
+  Strathmore university is top ranking in this region, hence
+  every student in Strathmore university is bright.
+Fallacies of presumption contd.
+ (e) Fallacy of composition
+ Occurs when one claims that something true of a some
+ parts of thing must also be true of the whole thing. Thus
+ one argue that what applies to the part also applies to the
+ whole thing.
+ Example:
+   Since every part of this machine is light, the whole
+    machine is light.
+   The department of philosophy has good lecturers, hence
+    the whole university has good lecturers
+Fallacies of presumption contd.
+Fallacy of Accident
+  The fallacy of accident is committed when one applies
+  a principle that is true as a general rule, to a specific
+  case.
+  E.g. Strathmore university is full of good people
+      Ken is staff of Strathmore university
+      Therefore, Ken is a good person
+Fallacies of presumption contd.
+Fallacy of Converse Accident
+ This fallacy is committed when one derives from a
+ specific case (or an instance) a general rule that is
+ deemed to be true on the basis of the truth of the
+ specific case.
+ Mr. Kamau innovated a power pump
+ Therefore Kenyans are great innovators.
+ It should be obvious that a single instance is not enough to
+ establish the truth of such a general principle. Since it's easy for
+ this conclusion to be false even though the premise is true, the
+ argument is unreliable.
+     Class activity: Detecting fallacies
+Name and explain fallacies in the following arguments:
+1.    I cannot trust any Christian since my pastor is insincere.
+2.    Mary ate chocolate last night and this morning she had heavy flu; so the
+      chocolate must have caused this flu.
+3.    You should take what professor Joseph says about health more seriously
+      because he is an renowned historian.
+4.    Will you contribute the money for environmental conservation or you are
+      on the side of environmental destruction?
+5.    What you are saying about women cannot be true since you are a
+      bachelor!
+6.    The university should consider my application because I’m an orphan
+      and the only surviving daughter of late previous chairman of the
+      university council.
+7.    You cannot excel in mathematics since you are a slow thinker; after all
+      your grandfather was an infamous witch!
+8.    Give me the cash or else I’ll tell everyone what you did on Christmas day.
+
