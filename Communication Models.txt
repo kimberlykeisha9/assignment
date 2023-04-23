@@ -1,0 +1,937 @@
+             MODELS OF COMMUNICATION:
+Communication models are systematic representations of the process that helps in understanding how
+communication works can be done. Models show the process metaphorically and in symbols. They form
+general perspectives on communication by breaking communication from complex to simple and keeps
+the components in order. Communication models can sometimes encourage traditional thinking and
+stereotyping but can also omit some major aspects of human communication.
+
+Methods and channels of communication to be used and the purpose of communication, must be
+considered before choosing a specific communication model. Models are used by business companies
+and other firms to foster their communication, explore their options and to evaluate their own situations.
+It is also used to understand how the receivers will interpret the message.
+
+
+
+
+TYPES OF COMMUNICATION MODEL
+There are three general types of communication models in which all other communication models are
+mostly categorized.
+
+
+
+             LINEAR MODEL OF COMMUNICATION
+Linear model of communication is a simple one way communication model. The message flows in a
+straight line from sender to the receiver. There is no concept of feedback. The only task that a receiver
+does here is to receive the message.
+
+ARISTOTLE’S MODEL OF COMMUNICATION
+Aristotle (384-322 B.C) was a Greek philosopher and writer born in Stagira, Northern Greece. He was
+also the teacher of Alexander the Great. He studied physics, logic, mathematics, etc.
+
+While exploring the human nature scientifically, Aristotle developed a linear model of
+communication for oral communication known as Aristotle’s Model of Communication. This is
+considered as the first model of communication and was proposed before 300 B.C. It is also the most
+widely accepted among all communication models.
+
+
+
+
+                                                                                                            1
+2
+The Aristotle Model is mainly focused on speaker and speech. It can be broadly divided into five (5)
+primary elements:
+
+   1.   Speaker
+   2.   Speech
+   3.   Occasion
+   4.   Audience
+   5.   Effect
+
+Aristotle’s communication model is a speaker centered model as the speaker has the most important role
+in it and is the only one active. It is the speaker’s role to deliver a speech to the audience. The role of
+the audience is passive, influenced by the speech. This makes the communication process one way, from
+speaker to receiver.
+
+The speaker must organize the speech beforehand, according to the target audience and situation
+(occasion). The speech must be prepared so that the audience be persuaded or influenced from the
+speech.
+
+He believed “Rhetoric” is the study of communication and persuasion and different message or speech
+should be made for different audiences at different situations to get desired effects or to establish a
+
+
+
+                                                                                                          3
+propaganda. This model was highly used to develop public speaking skills and create propaganda at that
+time so it is less focused on intrapersonal or interpersonal communication.
+
+Even if the model is speaker oriented and focuses on audience interaction in communication, there is no
+concept of feedback. For instance, a politician (speaker) gives a speech to get votes from the civilians
+(audience) at the time of election (occasion). The civilians only vote if they are influenced by the things
+the politician says in his speech so the content must be very impressive to influence the mass and the
+speaker must design the message very carefully.
+
+The speech must be clear as well as the speaker must have a very good non-verbal communication with
+the audience like eye contact. This example is a classic case of Aristotle Model of Communication
+depicting all the elements in the model.
+
+CRITICAL ELEMENTS OF A GOOD COMMUNICATOR
+Aristotle has given three (3) elements that must be present in a good communicator or public speaker.
+These elements are related to each other and they reinforce the other elements.
+
+   1. Ethos: Ethos is the characteristic that makes you credible in front of the audience. If there is no
+      credibility, the audience will not believe in you and will not be persuaded by you. Expertise and
+      positions also give credibility to a person. For instance, the mass will not listen to the promises
+      of a corrupt politician, but if a politician is known for his good deeds, there’s a high chance his
+      speech will be heard.
+   2. Pathos: If what you say matters to them and they can connect with it, then they will be more
+      interested and they will think you are more credible. Emotional bonds will make the audience
+      captivated and they feel the speaker is one of their own people. For instance, if people of a
+      village need water and the politician tells them that he will help in building roads, the people will
+      not get influenced but might be more influenced if he says he’ll build a dam for drinking water
+      and irrigation.
+   3. Logos: Logos is logic. People believe in you only if they understand what you are trying to say.
+      People find logic in everything. If there is no logic behind the speaker’s work or time, they do
+      not want to get involved. Everybody has a sense of reason. You must present facts to the
+      audience for them to believe in you. For example, a presenter using factual data in an awareness
+      program will attract the audience’s attention and will make them believe in the need of
+      awareness in the particular matter.
+
+CRITICISMS OF ARISTOTLE’S MODEL OF COMMUNICATION
+There are few criticisms around this model. Some of them are
+   There is no concept of feedback, as it is one way from speaker to audience.
+   There is no concept of communication failure like noise and barriers.
+   This model can only be used in public speaking.
+
+
+                                                                                                          4
+DAVID BERLO’S SMCR MODEL OF COMMUNICATION
+In 1960, David Berlo postulated Berlo’s Sender-Message-Channel-Receiver (SMCR) model of
+communication from Shannon Weaver’s Model of Communication (1949). He described factors
+affecting the individual components in the communication making the communication more efficient.
+The model also focuses on encoding and decoding which happens before sender sends the message and
+before receiver receives the message respectively.
+
+Berlo’s Model has mainly four components to describe the communication process. They
+are sender, message, channel and receiver. Each of the component is affected by many factors. (See
+diagram below).
+
+
+
+
+COMPONENTS OF BERLO’S MODEL OF COMMUNICATION
+
+S –SENDER:
+Sender is the source of the message or the person who originates the message. The person or source
+sends the message to the receiver. The following are the factors related to sender and is also the same in
+the case of receiver.
+
+     Communication Skills: Communication skills of a person is a factor that affects the
+      communication process. If the sender has good communication skills, the message will be
+      communicated better than if the sender’s communication skills are not good. Similarly, if the
+      receiver cannot grasp the message, then the communication will not be effective. Communication
+      skills include the skills to speak, present, read, write, listening, etc.
+
+                                                                                                             5
+     Attitude: The attitude of the sender and the receiver creates the effect of the message. The
+      person’s attitude towards self, the receiver and the environment changes the meaning and effect of
+      the message.
+
+     Knowledge: Familiarity with the subject of the message makes the communicated message have
+      its effect more. Knowledge on the subject matter makes the communicator send the message
+      effectively.
+
+     Social Systems: Values, beliefs, laws, rules, religion and many other social factors affect the
+      sender’s way of communicating the message. It creates difference in the generation of message.
+      Place and situation also fall under social systems.
+
+     Culture: Cultural differences make messages different. A person from one culture might find
+      something offensive which is very much accepted in another culture.
+
+M-MESSAGE:
+A message is the substance that is being sent by the sender to the receiver. It might be in the form of
+voice, audio, text, video or other media. The key factors affecting the message are:
+
+     Content: Content is the thing that is in the message. The whole message from beginning to end is
+      the content.
+
+     Elements: Elements are the non-verbal mannerisms that tag along with the content like gestures,
+      signs, language, etc.
+
+     Treatment: Treatment is the way in which the message is conveyed to the receiver. Treatment
+      also effects the feedback of the receiver.
+
+     Structure: The structure of the message or the way it has been structured or arranged, affects the
+      effectiveness of the message.
+
+     Code: Code is the form in which the message is sent. It might be in the form of language, text,
+      video, etc.
+
+C-CHANNEL:
+Channel is the medium used to send the message. In mass communication and other forms of
+communication, technical machines might be used as a channel like telephone, internet, etc. But in
+general communication, the five senses of a human being is the channel for the communication flow and
+it affects the effectiveness of the channel.
+
+
+                                                                                                           6
+     Hearing – We receive the message through hearing.
+     Seeing – We perceive through seeing. We also get non-verbal messages by seeing and hearing.
+     Touching – Many of the non-verbal communication happens from touching like holding hands.
+     Smelling – We collect information from smelling.
+     Tasting – Taste also provides the information to be sent as a message.
+
+R-RECEIVER
+Receiver is the person who gets the message sent in the process. This model believes that the thinking
+pattern and all other factors mentioned above must be in sync to that of the sender for the
+communication to be effective. The message might not have the same effect as intended if the receiver
+and sender are not similar. The receiver must also have a very good listening skill. Other factors are
+similar to that of the sender.
+   Communication skills
+   Attitudes
+   Knowledge
+   Social Systems
+   Culture
+
+
+CRITICISMS OF BERLO’S SMCR MODEL
+  There is no concept of feedback, so the effect is not considered.
+  There is no concept of noise or any kind of barriers in the communication process.
+  It is a linear model of communication, there is no two way communication.
+  Both of the people must be similar according to all the factors mentioned above.
+
+
+
+
+SHANNON AND WEAVER MODEL OF COMMUNICATION
+The Shannon and Weaver Model of Communication is a mathematical theory of communication that
+argues that human communication can be broken down into 6 key concepts: sender, encoder, channel,
+noise, decoder, and receiver. It is known as the “mother of all models” because of its wide popularity.
+The model is also known as ‘information theory’ or the ‘Shannon theory’ because Claude Shannon was
+the main person who developed the theory. The model’s primary value is in explaining how messages
+are lost and distorted in the process of communication.
+
+Definition of the Shannon and Weaver Model
+
+The Shannon and Weaver model is a linear model of communication that provides a framework for
+analyzing how messages are sent and received. It is best known for its ability to explain how messages
+can be mixed up and misinterpreted in the process between sending and receiving the message.
+Shannon, in his famous article titled “A Mathematical Theory of Communication” where he outlined
+the theory, explained what the goal of his model was:
+
+                                                                                                          7
+“The fundamental problem of communication is that of reproducing a message sent from one point,
+either exactly or approximately, to another point” (Shannon, 1948, p. 379).
+
+Using this mathematical theory of communication, he hoped to more effectively identify those pressure
+points where communication is distorted.
+
+BACKGROUND
+
+The Shannon Weaver model was first proposed in the 1948 article “A Mathematical Theory of
+Communication” in the Bell System Technical Journal by Claude Shannon and Warren Weaver:
+Shannon and Weaver were both from the United States. Claude Shannon was a mathematician. Warren
+Weaver was an electrical engineer.
+
+Many believe this mathematical theory of communication was mainly developed by Claude Shannon
+alone and Warren Weaver had a minimal role. It is often simply called the ‘Shannon information theory’
+in science disciplines. Shannon developed the theory to improve understanding of communication via
+telephone and eventually improve the quality of phones.
+It was later used as a general theory of communications.
+
+EXPLANATION OF THE SHANNON AND WEAVER MODEL
+The Shannon Weaver model mathematical theory of communication follows the concept of
+communication in a linear fashion from sender to receiver with the following steps:
+
+
+
+
+1. SENDER (INFORMATION SOURCE)
+
+The Shannon and Weaver model starts with the sender or “information source”. They are the person (or
+object, or thing – any information source) who has the information to begin with. The information
+source starts the process by choosing a message to send, someone to send the message to, and a channel
+through which to send the message. A sender can send a message in multiple different ways: it may be
+orally (through spoken word), in writing, through body language, music, etc.
+Example: An example of a sender might be the person reading a newscast on the nightly news. They
+will choose what to say and how to say it before the newscast begins.
+
+
+                                                                                                         8
+2. ENCODER (TRANSMITTER)
+The next step in the Shannon and Weaver model is the ‘encoder’. The encoder is the machine (or
+person) that converts the idea into signals that can be sent from the sender to the receiver. The Shannon
+model was designed originally to explain communication through means such as telephone and
+computers which encode our words using codes like binary digits or radio waves.
+However, the encoder can also be a person that turns an idea into spoken words, written words, or sign
+language to communicate an idea to someone.
+Examples: The encoder might be a telephone, which converts our voice into binary 1s and 0s to be sent
+down the telephone lines (the channel). Another encode might be a radio station, which converts voice
+into waves to be sent via radio to someone.
+
+3. CHANNEL
+The next step in the Shannon and Weaver model is the ‘channel’. The channel of communication is the
+infrastructure that gets information from the sender and transmitter through to the decoder and receiver.
+We sometimes also call this the ‘medium’.
+Examples: A person sending an email is using the worldwide web (internet) as a medium. A person
+talking on a landline phone is using cables and electrical wires as their channel.
+If we’re face-to-face, perhaps we don’t have a channel, except the sound waves from our voice that
+carry the sound from the sender’s mouth to the receiver’s ear.
+
+4. NOISE
+The next step in the Shannon and Weaver model is ‘noise’. Noise interrupts a message while it’s on the
+way from the sender to the receiver. It’s named after the idea that ‘noise’ could interrupt our
+understanding of a message. There are two types of noise: internal and external.
+
+Internal noise happens when a sender makes a mistake encoding a message or a receiver makes a
+mistake decoding the message. Here’s the two points where it can happen:
+     At the point of encoding (for example, when you misspell a word in a text message);
+     At the point of decoding (for example, when someone misinterprets a sentence when reading an
+        email)
+
+External noise happens when something external (not in the control of sender or receiver) impedes the
+message. So, external noise happens at the point of transmission through the channel (for example, when
+we’re having a conversation by a busy highway and the receiver is having trouble hearing over the
+sound of cars).
+
+One of the key goals for people who use this theory is to identify the causes of noise and try to minimize
+them to improve the quality of the message.
+Examples: Examples of external noise may include the crackling of a poorly tuned radio, a lost letter in
+the post, an interruption in a television broadcast, or a failed internet connection.
+Examples of internal noise may include someone having a headache so they can’t concentrate, someone
+speaking with a heavy accent, or when the sender mumbles when speaking.
+
+5. DECODER
+The next step in the Shannon and Weaver model is ‘decoder’. Decoding is the exact opposite of
+encoding. Shannon and Weaver made this model in reference to communication that happens through
+
+                                                                                                            9
+devices like telephones. So, in this model, there usually needs to be a device that decodes a message
+from binary digits or waves back into a format that can be understood by the receiver. If we’re talking
+about direct communication between people without the use of technology, there may still be a need for
+decoding. For example, you might need to decode a secret message, turn written words into something
+that makes sense in your mind by reading them out loud, or you may need to interpret (decode) the
+meaning behind a picture that was sent to you.
+Examples: Decoders can include computers that turn binary packets of 1s and 0s into pixels on a screen
+that make words, a telephone that turns signals such as digits or waves back into sounds, and cell phones
+that also turn bits of data into readable (and listenable) messages.
+
+6. RECEIVER (DESTINATION)
+The next step in the Shannon and Weaver model is ‘receiver’ The receiver is the end-point of the
+original Shannon and Weaver model of the technical communication process. This is the step where the
+person finally gets the message, or what’s left of it after accounting for noise.
+Examples of a receiver might be: the person on the other end of a telephone, the person reading an email
+you sent them, an automated payments system online that has received credit card details for payment,
+etc.
+
+7. FEEDBACK
+The final step in the Shannon Weaver model is ‘feedback‘. Actually, the ‘feedback’ step was not
+originally proposed by Shannon and Weaver in 1948. Norbert Weiner came up with the feedback step in
+response to criticism of the linear nature of the approach. (‘Linear’ means that the messages are only
+going one way). Feedback occurs when the receiver of the message responds to the sender in order to
+close the communication loop. They might respond to let the sender know they got the message or to
+show the sender whether they got the message clearly without noise and how well they understand the
+message.
+
+Nonetheless, the ‘feedback’ elements seems like a post-hoc add-on to the model, and is the subject of a
+lot of criticism (see later in this article on ‘disadvantages of the model’ for details).
+Examples: Feedback does not occur in all situations. Sometimes, like when watching TV, we don’t tend
+to let the people talking on the TV know what we’re thinking … we simply watch the show.
+Examples of when feedback will occur include:
+During a chat between friends, when you write a reply email, through your facial expressions and body
+language during a conversation, etc.
+
+EXAMPLES OF THE SHANNON WEAVER MODEL OF COMMUNICATION
+
+The Shannon and Weaver model of communication was originally proposed for technical
+communication, such as through telephone communications. Nonetheless, it has been widely used in
+multiple different areas of human communication. Here are some examples of how the Shannon Weaver
+model works:
+
+A) A Telephone Conversation
+
+Sender: The sender is the person who has made the call, and wants to tell the person at the other end of
+the phone call something important.
+
+                                                                                                       10
+Encoder: The telephone turns the person’s voice into a series of binary data packages that can be sent
+down the telephone lines.
+Channel: The channel is the telephone wires itself.
+Noise: Noise may occur if the speaker mumbles, the telephone wires are interrupted in a storm, or the
+telephone encoders/decoders are malfunctioning.
+Decoder: The telephone that the receiver is holding will turn the binary data packages it receives back
+into sounds that replicate the voice of the sender.
+Receiver: The receiver will hear the sounds made by the decoder and interpret the message.
+Feedback: The receiver may speak in response, to let the sender know what they heard or understood.
+
+B) Listening to the Radio
+
+Sender: The radio host will speak into her microphone.
+Encoder: The microphone and its computer will turn the voice of the radio host into binary packets of
+data that are sent to the radio transmitter. The radio transmitter, also part of the encoder, will turn that
+data into radio waves ready to be transmitted.
+Channel: The channel will be the radio waves that are sent out by the radio transmitter.
+Noise: Noise is most likely to occur if the receiver’s transistor radio is not tuned to the correct
+frequency, causing static, or if the receiver’s transistor radio is too far away from the radio transmitter.
+Decoder: The decoder is the receiver’s transistor radio, which will turn the radio waves back into voice.
+Receiver: The receiver is the person listening to the radio, who will hopefully receiver the full message
+loud and clear if noise has been avoided or minimized.
+Feedback: Feedback is difficult in this step. However, the radio channel may send out researchers into
+the field to interview listeners to see how effective their communication has been.
+
+C) A Face-To-Face Discussion
+
+Sender: The person starting the conversation will say something to start the communication process.
+Encoder: The ‘encoder’ step is usually used to explain a machine that encodes a message for
+transmission. For a face-to-face discussion, you could consider the ‘encoding’ to be the ways the sender
+turns their idea into intelligible words and sentences.
+Channel: There isn’t any wire or radio waves involved here – instead, the sound is transmitted through
+sound waves made by the voice.
+Noise: The sender may have mumbled or have an accent that caused the message to be distorted
+(internal noise). There might be a wind or traffic that made the message hard to hear (external noise).
+Decoder: While there’s no machine here, the listener still has to turn the words they hear into a legible
+message in their mind.
+Receiver: The receiver is the second person in the conversation, who the sender is talking to.
+Feedback: Face-to-face communication involves lots of feedback, as each person takes turns to talk. If
+someone’s message is not heard to noise, they can ask for clarification easily.
+
+ADVANTAGES AND DISADVANTAGES OF THE SHANNON AND WEAVER MODEL
+
+The Shannon and Weaver model of communication has many pros and cons. Here are a few:
+
+
+
+
+                                                                                                          11
+ADVANTAGES:
+
+1. It explains the barriers to effective communication very well
+The Shannon Weaver information theory was revolutionary because it explains the concept of ‘noise’ in
+detail. It shows how information is interrupted and helps people identify areas for improvement in
+communication. For example, the model also includes three ‘levels’ where communication can be
+interrupted. These are: technical problems, semantic problems, and effectiveness problems:
+     Technical problems: when the decoder, encoder or channel causes the problems. For example,
+         when a machine important for the communication of the message has a fault.
+     Semantic problems: This is when the message that was sent is different from the message that
+         was received (a practical way to think about this is the game ‘Telephone’, also known as
+         ‘Chinese whispers’ or ‘telephono roto’. The message is lost somewhere in the retelling.).
+     Effectiveness problems: This explains how well the message can cause a response or reaction
+         from the receiver.
+
+2. It breaks down communication into understandable parts
+The model enables us to look at the critical steps in the communication of information from the
+beginning to end.
+
+3. Transferable to multiple situations
+The communication model was originally made for explaining communication through technological
+devices. However, it’s been used to explain just about any form of communication you can think of.
+
+DISADVANTAGES:
+
+1. It’s a Linear Model / There’s Insufficient Regard for Feedback
+The original 1948 Shannon Weaver blueprint did not contain the ‘feedback’ component. When it was
+added by Weaver later on, it was included as a bit of an afterthought. Thus, it lacks the complexity of
+truly cyclical models such as the Osgood-Schramm model.
+
+2. It doesn’t account for power relationships
+The model doesn’t take a social scientific look at how information is interpreted differently based on
+power relationships or identities of those people communicating with one another.
+
+3. It doesn’t address one-to-many communication
+The ‘mother of all models’ is silent on the issues that arise when there is one sender and multiple
+receivers. For a better analysis of mass communication, refer to the Lasswell model of communication.
+
+
+CONCLUSION
+The Shannon and Weaver model of communication is the ‘mother of all models’ of human
+communication. It is also known as the ‘information theory’. It is a mathematical theory considered to
+be a ‘linear’ communication model. Created be Claude Shannon and Warren Weaver, it is considered to
+be a highly effective communication model that explained the whole communication process from
+information source to information receiver.
+
+                                                                                                          12
+  TRANSACTIONAL MODEL OF COMMUNICATION
+In transactional model, senders and receivers both are known as communicators and both play equally
+important role in communication. Transactional model relates communication with social reality,
+cultural upbringing and relational context (relationships). Non-verbal feedback like gestures, body
+language, is also considered as feedback in this model. Different models that follow transactional model
+of communication are:
+
+WILBER SCHRAMM’S MODEL OF COMMUNICATION
+Wilber Schramm proposed the model of communication in 1954. Information is of no use unless and
+until it is carefully put into words and conveyed to others. Encoding plays a very important role because
+it initiates the process of communication by converting the thought into content. When the information
+reaches the recipient his prime responsibility is to understand what the speaker intends to convey. Unless
+and until the second party is able to understand or decode the information what the sender wants to
+communicate, the message is actually of no use. Thus encoding and decoding are two most important
+factors of an effective communication without which information can never flow between two
+individuals.
+
+Schramm’s model also revolves around the above principle. According to the Schramm’s model, coding
+and decoding are the two essential processes of an effective communication. He also emphasizes that the
+communication is incomplete unless and until the sender receives a feedback from the recipient. Imagine
+a person sharing his thoughts with his friend and his friend not responding to him. Is the communication
+complete? NO.
+
+Schramm believed that communication is actually a two way process between the first party and the
+second party. Let us understand more with the help of an example.
+
+Jennifer to Sam -“Will you accompany me for a movie?”
+
+Sam kept mum and did not respond and hence the communication between Sam and Jennifer was not
+complete. If Sam was not interested in the movie, he could have responded or given the feedback to
+Jennifer about his unwillingness.
+
+According to Schramm’s model, whenever the information reaches the recipient, it becomes his
+responsibility to give the feedback and let the other party know if he has downloaded the message in
+exactly the same manner the speaker wanted. If he is not clear with anything or has any doubts, it must
+be cleared with the speaker. Thus when the speaker conveys any message to the listener, the listener,
+decodes the message and once again passes the message to the speaker after understanding it and
+completing the full circle.
+
+
+
+                                                                                                       13
+                                                Sender
+                                                M↓ ↑M
+                                               Receiver
+                                      M stands for message
+
+Schramm believed that an individual’s knowledge, experience and cultural background also play an
+important role in communication. Individuals from diverse cultures, religion or background tend to
+interpret a single message in different ways.
+
+Billy to Servant - “Please bring something hot for me to drink as I am suffering from sore throat.”
+
+The servant brought him a glass of lukewarm water but Billy actually wanted a cup of hot chocolate
+coffee. Hence different interpretation by the servant. He was not on the common grounds with Billy and
+failed to understand his master’s information. It was neither Billy’s nor the servant’s fault but actually
+the differences in both their backgrounds that was to blame.
+
+Let’s go through another example:
+John to Teddy -“I get late for my office, please buy me a clock”
+
+Teddy went to a local market and gifted a clock to John and John was never late to office after that. He
+could have also misinterpreted the message but how come he could understand his friend’s desire? A
+clock is always a clock whether Teddy has to bring it or any other individual has to bring it. A clock can
+never be confused with a wrist watch or for that matter something else.
+
+There are some messages that are more or less same for everyone. They are called as messages with
+a Denotative meaning, which are almost the same for all individuals and in such cases chances of
+misinterpretation and misunderstanding gets nullified.
+
+Please once again refer to the above situation of John and Teddy and slightly modify the situation. Let’s
+assume that Teddy brought two clocks to John as he was two concerned and didn’t want him to ever get
+late. In this case John actually wanted a single clock but Teddy brought his emotional quotient and
+personal affection in between. Such meanings are called Connotative meaning, which are affected by
+emotional factors. A message can also get distorted due to wrong body movements, gestures, facial
+expressions and many other factors.
+
+To conclude, according to this model of communication, when a sender passes on the information to the
+receiver, the receiver must interpret it in the desired form the sender wants and give him the feedback or
+respond accordingly. Any communication where the sender does not get the feedback, the
+communication is not complete and thus ineffective.
+
+
+
+                                                                                                        14
+OSGOOD-SCHRAMM MODEL OF COMMUNICATION
+
+
+
+
+It is a Circular Model, so that communication is something circular in nature:
+
+        Encoder – Who does encoding or sends the message (message originates)
+        Decoder – Who receives the message
+        Interpret – Person trying to understand (analyses, perceive) or interpret
+
+Note: From the message starting to ending, there is an interpretation goes on. Based on this
+interpretation only the message is received.
+
+This model breaks the sender and receiver model in a practical way. It is not a traditional model. It can
+happen between two people; each person acts as both sender and receiver and hence use interpretation. It
+is simultaneously take place e.g. encoding, interpret and decoding.
+
+Semantic noise is a concept introduced here it occurs when sender and receiver apply different meaning
+to the same message. It happens mostly because of words and phrases for e.g. technical language, so
+certain words and phrases will cause you to deviate from the actual meaning of the communication.
+Note: When semantic noise takes place decoding and interpretation becomes difficult and people get
+deviated from the actual message.
+
+ADVANTAGE OF OSGOOD- SCHRAMM MODEL OF COMMUNICATION
+
+1.   Dynamic model; shows how a situation can change
+2.   It shows why redundancy is an essential part
+3.   There is no separate sender and receiver, sender and receiver is the same person
+4.   Assume communication to be circular in nature
+5.   Feedback – central feature.
+
+                                                                                                      15
+DISADVANTAGE OF OSGOOD-SCHRAMM MODEL OF COMMUNICATION
+This model does not talk about semantic noise and it assume the moment of encoding and decoding.
+
+
+
+
+     INTERACTIVE OR CONVERGENCE MODEL OF
+               COMMUNICATION
+Interactive or convergence model is similar to transactional model as they are both two way
+communication models. But, interactive model is mostly used for new media like Internet. Here, people
+can respond to any mass communications like videos, news, etc. People can exchange their views and
+ideas. Different models that follow interactive model of communication are:
+
+SAM BECKER’S MOSAIC MODEL OF COMMUNICATION
+Sam Becker proposed a communication model in “The Prospect of Rhetoric” (1968), which is known as
+Becker’s Mosaic Model of Communication. According to him, the classical models of communication
+are not very useful in contemporary communication. The model explains the complexity of human
+communication. It also describes the randomness of the origin of messages and communication as a
+dynamic process. The model is believed to reduce the limitations of the linear models. The model
+stresses the meaning of messages. The model was inspired by Marshall McLuhan’s views and
+metaphors of television as a collection of light and dark spots.
+
+
+
+
+                                                                                                   16
+COMPONENTS OF BECKER’S MOSAIC MODEL OF COMMUNICATION
+ 1. Empty cells – Unavailable messages or sources
+ 2. Vertical layers – Set of similar messages
+ 3. Cells – Messages and sources
+ 4. Receivers go through the cells in Loops every time
+
+CONCEPTS OF BECKER’S MOSAIC MODEL OF COMMUNICATION
+Every person lives and exists in the web of communications, which reciprocally makes the person
+unique. Messages construct humans and humans construct messages. Message depends on information
+source, culture, social situations, and environment. The constructed message is just a small step to the
+formation of complicated communication environment which is known as a “Mosaic”.
+
+The mosaic is formed from the network of bits of information. Bits of information help in making a
+complete picture of any situation. There are many sources of information and messages. Every
+individual will take the information that he/she needs and ignore all others. These fragments of
+information can be about anything, in any time and in any space. The bits are sent can also vary. These
+bits are pieced together by a person as per the needs to form a message. When another person receives
+the message, the second person not only interprets according to the bits of information that is in the
+message, but also interprets it with the help of all the past bits of information the person can relate the
+message to.
+
+Communication is shown in a three dimensional cube formed with bits of information and time-space
+dimensions. It is taken as non-linear. The mosaic model talks about message environment being a major
+factor for rhetoric. The receiver is only exposed to the rhetorical message sent by the sender, and so the
+message must make an influence over the receiver. The receiver’s environment is also important as the
+message that is received is more essential than the one that is sent.
+
+Communicative acts are formed by linking more than one social situation. The same message can be
+sent differently as the gaps in time, modes of presentation and situations are always different.
+There are two processes in Mosaic model of communication. They are:
+   Bits of information are always increasing, has a wide range of varieties and sources
+   Mostly, there is repetitiveness in similar transaction of messages or the message can sometimes be
+      in isolation
+
+ADVANTAGES OF THE BECKER’S MOSAIC MODEL OF COMMUNICATION
+  The mosaic model of communication shows the complexity of communication and says
+   communication is dynamic.
+  The model explains why the exposure to message varies.
+  The model also talks about individual differences between people.
+
+
+                                                                                                          17
+     The message is said to be interpreted in comparison to the information available and relationship
+      of the bit of information.
+
+DISADVANTAGES OF THE BECKER’S MOSAIC MODEL OF COMMUNICATION
+   The mosaic model of communication does not explain many dimensions like environmental and
+    social.
+   The new bits of information are useless if the last bits are lost.
+
+
+WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+Westley and MacLean’s Model of Communication was suggested by Bruce Westley (1915-1990) and
+Malcolm S. MacLean Jr. (1913-2001) in 1957. This model was an adaptation from Newcomb’s model of
+communication, which talked about co-orientation for simultaneous orientation in a two way
+communication. It also consisted of some concepts from Lewin’s model.
+
+Unlike Dance’s Helical Model of Communication, the model says that communication does not begin
+when one person starts speaking, but it does when a person responds to something from his/her
+surroundings. The person must first receive message from the environment and then, he/she responds
+according to his/her object of orientation.
+
+Westley and MacLean’s model explains the difference between interpersonal and mass communication
+as feedback. Feedback can be direct in interpersonal communication whereas indirect in mass
+communication. According to this model, communication starts from the environment and not when the
+message is spoken or shown.
+
+The Westley and MacLean’s model can be applied in two contexts: interpersonal and mass
+communication, the point of difference being the feedback. Feedback is direct and fast in interpersonal
+communication and indirect and slow in mass communication. The model also differentiates message as
+purposive and non-purposive.
+
+
+
+
+                                                                                                      18
+COMPONENTS OF WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+The major components in the communication process for the model are:
+   Source (A) – Source is the message creator and sender.
+   Environment (X) – Environment is the physical and psychological situation where the message is
+     being created and sent.
+   Sensory experience (X1) – Sensory experience is the first thing that the source sees by which the
+     source gets the idea for the formation of the message.
+   Objects of Orientation (X1, X2,) – Objects of orientation is the person’s social and cultural
+     reality that has formed from his/her past experiences and teachings.
+   Message Interpretation or Coding (X) – Message is interpreted with the objects of orientation of
+     the receiver of the message.
+   Receiver (B) – The person who gets the message sent by the source and the person who interprets
+     according to his/her objects of orientation.
+   Object of Orientation of Receiver (X, B) – The views and ideas of the receiver or his/her social
+     reality is his/her object of orientation. That is how the receiver interprets the message.
+   Feedback (f) – The receiver forms another message after interpreting the message and sends it
+     back to the sender. It is known as feedback.
+   Gatekeeper (C) – Gatekeepers are found in mass communication. The gatekeeper is the editor
+     who filters the message as per the needs of the audience and media institution.
+   Opinion Leader – Opinion leaders are well known and recognized people who can influence
+     public opinions.
+
+CONCEPTS OF WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+The process of communication in Westley and MacLean’s model of communication starts when the
+source creates a message from his/her environment. The communicator acts and creates the message as a
+response to the sensory experience with his/her own objects of orientation. Then, the response is coded
+after interpreting the environmental response. The coded message is transmitted to a second respondent
+who interprets the message differently according to his/her objects of orientation and provide feedback
+to the sender.
+
+Gatekeepers and opinion leaders are the parts of communication processes in mass communication.
+They are the editors, proofreaders, etc. who choose which message should be published and what effect
+will it have on the audience. Filter of the message is dependent on many factors. Gatekeeping is done in
+these levels:
+   1. Individual level: A person’s gender, sexual orientation, culture, likes, dislikes, etc.
+   2. Routine practice level: Pre-established set of rules and practices for a particular type of work to
+        be done
+   3. Communication organizations: The policies of the organization that is publishing the work
+   4. Social institutions: The social systems by which the message is formed
+
+
+                                                                                                       19
+  5. Societies: Societal values and belief systems, rules and norms, etc.
+
+EXAMPLE OF WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+A person ‘A’ is going to a meeting. Thunderstorms ‘X1’ and heavy rains ‘X2’ start. The roads ‘X3’ are
+all blocked. ‘A’ will have to convey the message to the people who are conducting the meeting that
+he/she will not be reaching on time. ‘A’ can inform all others through phone.
+
+Here, the message is conceived from the environmental message through the person’s sensory
+experience. The object of orientation of the person makes him call others because he thinks that reaching
+late is impolite. Sender ‘A’ creates the message as a courteous request.
+
+The message is coded in a language form and is sent to the receiver ‘B’ who interprets according to
+his/her own object of orientation like the receiver can still find reaching late to a meeting rude. The
+feedback is given accordingly.
+
+Similarly, in mass communication, ‘A’ sends a message to ‘C’ who is the editor. ‘C’ acts as a gatekeeper
+and publishes the news after proper editing. There might be readers’ ‘B’ replies to which are in the form
+of letters or directly face to face. The process of letter reaching the writer takes a long time whereas
+direct review reaches fast. In a website, there are many writers. They write and send the articles to get
+them published. But the editor chooses the articles that are relevant. The comment box is the place
+where the audience can give feedback. Here, X1 is any article, X2 is the audience comments, X3 is the
+website, f is feedback, A is writers, B is the audience, C is the gatekeeper or the editor. So,
+    There is a feedback loop between Audience (B) and the Editor (C) after sending the article for
+       publishing, which is known as “fBC”.
+    There is a feedback loop between Editor (C) and Writer (A) giving response to the writers, which
+       is known as “fCA”.
+    There is another feedback loop between Audience (B) and the Writers (A) in the comments, which
+       is known as “fBA”.
+
+The message received from the environment can be accidental or abrupt, so might not be intentional. So,
+the signals can be received anytime and message is formed anytime.
+
+ADVANTAGES OF WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+  There is the concept of feedback.
+  As the message comes from the environment, sensory field improves the message formation.
+  Social and other factors are included in objects of orientation.
+  The model can be applied to interpersonal, group communication as well as mass communication.
+  The model is very descriptive.
+
+
+
+
+                                                                                                          20
+DISADVANTAGES OF WESTLEY AND MACLEAN’S MODEL OF COMMUNICATION
+   There are many variables even for simple communication which makes the model very
+    complicated.
+   The model is only two-dimensional and does not explain communication which involves multiple
+    messages and complicated messages.
+   The information can get modified while sending it from the sender to the receiver as there can be
+    noise. The model does not account for noise in communication.
+
+
+DE FLEUR MODEL OF COMMUNICATION
+De Fleur Model of Communication consists of a two way communication process where the receiver
+becomes the sender by providing feedback and by receiving the feedback, the sender becomes the
+receiver. The model is named after American scholar Melvin Lawrence DeFleur. He was a professor of
+communications and social psychology with a PhD in Social Psychology.
+
+This model is an expansion of Shannon and Weaver model of communication, which describes a one
+way communication with feedback mechanism. It is also based on the Westley and Maclean model of
+communication which proposed a circular process of communication and feedback. Basically, De Fleur
+model is the combination of these two models. So, we suggest you make yourself familiar with the two
+models first before diving into De Fleur model of communication.
+
+CONCEPT OF DE FLEUR MODEL
+
+
+
+
+                                                                                                   21
+De Fleur model of communication describes a mass media device in the communication process, which
+is circular in nature and is the first one to constitute a two way feedback process. As any other model,
+the communication originates at a source. Then it is sent to a transmitter that operates signal, after which
+a channel transfers it to a receiver. Once the message reaches its destination, the receiver sends
+feedback. The feedback allows the sender to determine if proper communication has taken place.
+Here, the receiver assumes the role of a sender by sending feedback while the sender becomes receiver
+by receiving feedback. Noise can occur at any stage in this model. A feedback device is an important
+characteristic of this model. The feedback is given by a target audience, which is different from
+receivers, whether the message has been received or not.
+
+DE FLEUR MODEL EXAMPLE
+Let’s assume a brand wants to advertise its product to its audience. An advertisement is filmed and
+transmitted by a mass media device (television, internet etc.). The message reaches the target audience
+through a receiver (television set, radio, phone etc.). The target audience then provides the feedback
+through a different medium like social media or email. The feedback from the target audience lets the
+brand know if their product is a success or not. For instance, in January 2018, Swedish retail giant
+H&M circulated an online advertisement featuring a black boy wearing a sweatshirt that read, “Coolest
+monkey in the jungle.” The racial undertones of the ad ignited a widespread backlash on Twitter. After
+receiving an overwhelming negative feedback, H&M announced that the sweatshirt had been removed
+from their line of products.
+
+
+
+PROPAGANDA MODEL OF COMMUNICATION
+Propaganda Model of Communication was developed to explain how propaganda, systematic biases,
+pressures and constraints have been influencing mass media. The model explains how economic, social
+and political policies are manufactured in order to manipulate the populations for the welfare of those
+groups with power and money. The founders of this model mostly concentrated on the population and
+media of the USA for the research but this theory is universally applicable.
+
+HISTORY OF PROPAGANDA MODEL
+
+
+
+
+                                                                                                          22
+Propaganda Model of Communication was first introduced in 1988 by the two Americans – philosopher
+Avram “Noam” Chomsky and Edward Samuel Herman, who was a professor of Emeritus of Finance at
+the Wharton School of Business. The model was introduced through their book, Manufacturing
+Consent: The Political Economy of the Mass Media. The ideas of this theory are derived from the
+works done by Harold Lasswell on wartime propaganda during the 1920s to the 1940s, and by Jacques
+Ellul on the sociological techniques of propaganda and the media during the 1950s and 1960s.
+
+PROPAGANDA MODEL THEORY
+As written in Chomsky’s and Herman’s book, “A propaganda model focuses on this inequality of wealth
+and power and its multilevel effects on mass-media interests and choices. It traces the routes by which
+money and power are able to filter out the news to fit print, marginalize dissent, and allow the
+government and dominant private interests to get their messages across the public.”
+
+This theory views media as a business that sells its products (the audience, readers, and subscribers) to
+other businesses that do their advertisements in the media, rather than disseminating news for the public.
+The theorists state that news is passed through five filters before it reaches the audience. The filters
+make the news different from its original form by determining what events are newsworthy, how these
+events are to be covered and how much coverage they receive. These five filters are:
+  1. Size, ownership and profit orientation of mass media
+  2. Funding
+  3. Source
+  4. Flaks
+  5. Anti-communism
+
+SIZE, OWNERSHIP AND PROFIT ORIENTATION OF MASS MEDIA
+
+
+
+
+The major news distributors are a part of large corporations and conglomerates. As a result, the
+information provided to the public largely depends upon the interests of these organizations, which in
+
+                                                                                                         23
+turn has a direct impact on the quality of the news. For example: A fictional news channel, say World
+News, is owned by the World Entertainment Group, a subsidiary of Century World. World News is
+unlikely to publish any news which may endanger the benefit of its owners (both World Entertainment
+Group and Century World).
+
+FUNDING
+According to Chomsky and Herman, advertising is the primary source of income for the mass media.
+The media would have to bear heavier costs of operation and production if the advertisers weren’t there
+to fund them. Thus, it is needless to say that the media would filter the news in favor of their fund
+providers often for the sake of their existence. For example: A corporate organization may threaten the
+mass media to withdraw their sponsorship contracts if the media publishes any content that may damage
+the reputation of the organization. It is, therefore, against the interest of the media to produce such news
+which is contrary to the beliefs of their sponsors.
+
+SOURCE
+The cost of posting journalists everywhere would be excessively high for the mass media. So they often
+rely on press releases and other public relation products for news that have already been tailored for
+publishing. In addition, they also rely on concentrating their personnel (reporters and camera persons)
+where news stories are likely to occur, such as at the government-sponsored press forums. At such
+places, the media are provided with canned pieces of news that can save a lot of money and time of the
+media. For example: As the government officials and politicians are viewed as credible sources of
+information, the media avoid the need for fact-checking as it is both costly and time-consuming. The
+media also acts in favor of the sources ensuring that the source is delighted by fine-tuning of the news as
+they expect the continuous flow of news from them.
+
+FLAKS
+A Flak is defined as a negative response from the audience to the programmes or outlets broadcasted or
+published by the media. A flak can be of various types such as a lawsuit, complaints, government
+sanctions or petition. Flaks on a large scale are destructive to the media so the media always have an eye
+for the negative responses. The fear for flaks forces the media to thoroughly look on the material and
+filter the information, especially before publishing news about public figures with huge fandoms in an
+attempt to avoid such stories which may bring negative responses to the media. Firing on-air personnel
+for expressing opinions that are viewed as controversial or not favoring the media giants also explains
+how the mass media try to avoid flak. For example: Most of the mass media avoid publishing news that
+project a negative image of religious leaders until and unless they have a strong evidence in order to
+protect the media’s reputation among the public.
+
+ANTI-COMMUNISM AND FEAR
+Chomsky and Herman have labeled anti-communism as a national religion and control mechanism. This
+filter mobilizes the population against a common enemy while portraying the opponents as insufficiently
+
+
+                                                                                                          24
+patriotic or in alliance with the enemy. For example: Many American corporations and elite groups
+considered that Communism was evil as it took their wealth and power from them and threatened their
+status. These elites who are also the owner of the mass media have adopted a policy to censor the
+articles and news which reflects the positive sides of communism.
+
+UPDATES TO THE MODEL
+Chomsky and Herman republished their work in 2002 with minor updates to the model. The updates
+were based on the case studies related to three major factors.
+
+         The dramatic centralization of the mass media that took place in the 1990s.
+         The increased globalization due to the rise of the internet.
+         The deregulation and reduction of budgetary pressure to support non-commercial media.
+
+CRITICISMS OF PROPAGANDA MODEL
+There have been a few criticisms for this model. Given below are some popular ones.
+
+  1. In 2004, Eli Lehrer wrote in his book, The Anti-Chomsky Reader, that the media is not a
+     monolithic entity. He believes that the media is not biased because there are pieces of evidence
+     when it has reported on and exposed cases of corporate corruption.
+  2. Another critic of this theory is Walter LaFeber. Writing for The New York Times, the historian
+     criticized Chomsky and Herman’s book (Manufacturing Consent) and stated that the model does
+     not adequately explain how a powerful propaganda system would let military aid to the rebels be
+     blocked.
+
+
+
+SOURCES:
+
+          Management Study Guide https://www.managementstudyguide.com/schramm-model-of-
+           communication.htm
+          Businesstopia https://www.businesstopia.net/communication
+          B.C. Faculty Pressbooks https://pressbooks.bccampus.ca/professionalcomms/chapter/3-2-the-
+           communication-process-communication-in-the-real-world-an-introduction-to-communication-
+           studies/
+          The Communication Process http://thecommunicationprocess.com/models-of-communication/
+
+
+
+
+                                                                                                       25
+
